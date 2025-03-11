@@ -22,10 +22,16 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Introduction to Deep Learning (MIT)](#introduction-to-deep-learning)
 - [CMU Introduction to Deep Learning (11-785)](#cmu-introduction-to-deep-learning-11-785)
 - [Deep Learning: CS 182](#deep-learning-cs-182)
-- [Deep Unsupervised Learning](#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
 - [Foundation Models](#foundation-models)
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
+
+**Deep Generative Models**
+
+- [Deep Unsupervised Learning](#deep-unsupervised-learning)
+- [Deep Generative Models (Cornell)](#deep-generative-models-cornell)
+- [Deep Generative Models (Stanford)](#deep-generative-models-stanford)
+- [Generative AI with Stochastic Differential Equations](#mit-6s184-generative-ai-with-stochastic-differential-equations)
 
 **Scientific Machine Learning**
 
@@ -885,6 +891,47 @@ This is course is from Peter Abbeel and covers a review on reinforcement learnin
 - ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) 🔗 [Link to Materials](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+
+## Deep Generative Models (Cornell)
+
+This is course is from Volodymyr Kuleshov and explores the foundational probabilistic principles of generative models, their learning algorithms, and popular model families.
+
+- Autoregressive Models
+- Latent Variable Models
+- Normalizing Flows
+- Generative Adversarial Networks
+- Energy-Based Models
+- Diffusion Models
+- ...
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B&si=tPT7LejqICnnV8f7) 🔗 [Link to Materials](https://kuleshov-group.github.io/dgm-website/)
+
+## Deep Generative Models (Stanford)
+
+This is course is from Stefano Ermon and covers the probabilistic foundations and learning algorithms for deep generative models.
+
+- Variational Autoencoders
+- Generative Adversarial Networks
+- Autoregressive Models
+- Normalizing Flow Models
+- Energy-Based Models
+- Score-Based Models
+- ...
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) 🔗 [Link to Materials](https://deepgenerativemodels.github.io/)
+
+## MIT 6.S184: Generative AI with Stochastic Differential Equations
+
+This course aims to build up the mathematical framework underlying Flow Matching and Diffusion Models from first principles. 
+
+- Flow and Diffusion Models
+- Constructing a Training Target
+- Training Flow and Diffusion Models
+- Building an Image Generator
+- Generative Robotics
+- Generative Protein Design
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH) 🔗 [Link to Materials](https://diffusion.csail.mit.edu/)
 
 ---
 
